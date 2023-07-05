@@ -6,7 +6,7 @@ Projeto da 15ª semana da turma online: Todas em Tech 0n23 - Front-end.
 
 ### Quem é Aluna Marcia Dias?
 
-<img src='./assets/marcia.jpg' width=500 alt='Foto da Aluna Marcia Dias'>
+<img src='./assets/marcia.JPG' width=500 alt='Foto da Aluna Marcia Dias'>
 
 [Marcia Dias](https://www.instagram.com/magaspe), Pernambucana, trabalho como coordenadora de E-commerce, aluna {reprograma}.
 
@@ -97,7 +97,7 @@ Criado um .env e ocultado no .gitignore.
 
 ## 4. Inclusão do projeto no Vercel e realizado o deploy.
 
-Vem aqui conferir o resultado final: https://meu-projeto-react.vercel.app/
+Vem aqui conferir o resultado final: https://meu-projeto-react2.vercel.app/
 
 # Citação e Agradecimento
 
