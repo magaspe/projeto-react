@@ -25,7 +25,6 @@ Projeto da 15ª semana da turma online: Todas em Tech 0n23 - Front-end.
 
 Criado um site usando ReactJS, apresentando e enriquecendo o nosso portfólio, além de treinar todos os conteúdos vistos no módulo de ReactJS.
 
-Vem aqui conferir como será nosso resultado final: https://site-pessoal-react-eight.vercel.app/
 
 ## O site pessoal conteem 4 páginas:
 
@@ -98,6 +97,7 @@ Criado um .env e ocultado no .gitignore.
 
 ## 4. Inclusão do projeto no Vercel e realizado o deploy.
 
+Vem aqui conferir o resultado final: https://meu-projeto-react.vercel.app/
 
 # Citação e Agradecimento
 
