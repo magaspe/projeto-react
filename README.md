@@ -6,7 +6,7 @@ Projeto da 15ª semana da turma online: Todas em Tech 0n23 - Front-end.
 
 ### Quem é Aluna Marcia Dias?
 
-<img src='./assets/marcia.JPG' width=500 alt='Foto da Aluna Marcia Dias'>
+<img src='../assets/marcia.JPG' width=500 alt='Foto da Aluna Marcia Dias'>
 
 [Marcia Dias](https://www.instagram.com/magaspe), Pernambucana, trabalho como coordenadora de E-commerce, aluna {reprograma}.
 
