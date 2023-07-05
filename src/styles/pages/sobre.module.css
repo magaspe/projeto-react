@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto,sans-serif;
+}
+
+.sobreConteiner {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.sobreImage {
+    width: 100%;
+    height: 600px;
+}
